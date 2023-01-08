@@ -4,8 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "lint": "eslint --fix --ext .js .",
-    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && vite build"
+    "lint": "eslint --fix --ext .js ."
   },
    "engines": {
         "node": "16.x"
