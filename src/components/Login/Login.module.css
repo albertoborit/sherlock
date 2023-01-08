@@ -1,0 +1,20 @@
+.formContainer {
+    background-color:darkslategray;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    /* Center vertically and horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm {
+    width: 250px;
+    height: 250px;
+}
+
+.form-label {
+    color:white;
+    
+}
